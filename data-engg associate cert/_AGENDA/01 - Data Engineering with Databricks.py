@@ -5,7 +5,7 @@
 # MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning" style="width: 600px">
 # MAGIC </div>
 
-# COMMAND ----------
+# COMMAND -----------
 
 # MAGIC %md
 # MAGIC
